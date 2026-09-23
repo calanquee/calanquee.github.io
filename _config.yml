@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Qingxiu Liu / CUHK"
+title                    : "Homepage of Qingxiu Liu"
 title_separator          : "-"
 name                     : &name "Qingxiu Liu"
-description              : &description "Qingxiu Liu is a Ph.D. candidate at CUHK researching machine learning systems and network systems."
+description              : &description "Qingxiu Liu is a Ph.D. candidate at CUHK, focusing on machine learning systems and network systems."
 url                      : https://calanquee.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
