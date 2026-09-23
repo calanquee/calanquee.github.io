@@ -12,13 +12,13 @@ My research interests are **machine learning systems** and **network systems**.
 
 ## Selected Publications
 
-<span class="publication-title"><strong>[ArXiv 26] FluxMoE: Decoupling Expert Residency for High-Performance MoE Serving.</strong> <a href="https://drive.google.com/file/d/1ZHpsk6hNYjpHgmRJ7Xc33UK9mC4PgFmG/view" target="_blank" rel="noopener noreferrer">[PDF]</a></span>  
+<span class="publication-title"><strong>[ArXiv 26] FluxMoE: Decoupling Expert Residency for High-Performance MoE Serving.</strong> <a href="{{ '/files/fluxmoe.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">[PDF]</a></span>  
 <span class="publication-authors"><u>Qingxiu Liu</u>, Yongchao He, Runhan Jiang, Zion Wang, Bohan Zhao, Mi Zhang, and Patrick P. C. Lee.</span>
 
-<span class="publication-title"><strong>[TON 26] Fletch: File-System Metadata Caching in Programmable Switches.</strong> <a href="https://drive.google.com/file/d/1br8LJVOA8K5bLKuxChI-TUZw1oX16Upp/view" target="_blank" rel="noopener noreferrer">[PDF]</a></span>  
+<span class="publication-title"><strong>[TON 26] Fletch: File-System Metadata Caching in Programmable Switches.</strong> <a href="{{ '/files/ton26fletch.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">[PDF]</a></span>  
 <span class="publication-authors"><u>Qingxiu Liu</u>, Jiazhen Cai, Siyuan Sheng, Yuhui Chen, Lu Tang, Zhirong Shen, and Patrick P. C. Lee.</span>
 
-<span class="publication-title"><strong>[ICDE 24] PP-Stream: Toward High-Performance Privacy-Preserving Neural Network Inference via Distributed Stream Processing.</strong> <a href="https://drive.google.com/file/d/1hk6ip38YhF_-DOeL213uMlH9AXmwy9l1/view" target="_blank" rel="noopener noreferrer">[PDF]</a></span>  
+<span class="publication-title"><strong>[ICDE 24] PP-Stream: Toward High-Performance Privacy-Preserving Neural Network Inference via Distributed Stream Processing.</strong> <a href="{{ '/files/icde24ppstream.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">[PDF]</a></span>  
 <span class="publication-authors"><u>Qingxiu Liu</u>, Qun Huang, Xiang Chen, Sa Wang, Wenhao Wang, Shujie Han, and Patrick P. C. Lee.</span>
 
 ## Services
