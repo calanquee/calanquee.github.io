@@ -48,6 +48,7 @@
 }
 
 @include breakpoint($large) {
+  .page__content .biography,
   .page__content .publication-title,
   .page__content #services + ul,
   .page__content #teaching + p,
