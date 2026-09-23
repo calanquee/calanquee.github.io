@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at The Chinese University of Hong Kong (CUHK) and a member of the [Applied Distributed Systems Lab (ADSLab)](http://adslab.cse.cuhk.edu.hk/), supervised by Professor [Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/www/index.html). Before that, I received my bachelor's degree in Information Security from Beijing University of Posts and Telecommunications (BUPT) in 2020. I then received my master's degree in Electronic Information from Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), in 2023, under the supervision of Professor [Qun Huang](https://huangqundl.github.io/).
+I am a Ph.D. candidate at The Chinese University of Hong Kong (CUHK) and a member of the [Applied Distributed Systems Lab (ADSLab)](http://adslab.cse.cuhk.edu.hk/), supervised by Professor [Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/www/index.html). Before that, I received my bachelor's degree in Information Security from Beijing University of Posts and Telecommunications (BUPT) in 2020. I then received my master's degree in Electronic Information from Institute of Computing Technology, Chinese Academy of Sciences (ICT-CAS), in 2023, under the supervision of Professor [Qun Huang](https://huangqundl.github.io/).
 
 My research interests are **machine learning systems** and **network systems**.
 
