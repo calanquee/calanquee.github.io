@@ -26,9 +26,9 @@ author:
   avatar           : "qingxiu-liu.jpg"
   name             : "Qingxiu Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate at CUHK"
   location         : "Shatin, HK"
-  employer         : "CUHK"
+  employer         :
   uri              : # URL
   email            : "qxliu23@cse.cuhk.edu.hk" 
 
