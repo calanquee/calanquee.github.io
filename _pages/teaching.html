@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+<!-- Add real courses and roles as Markdown files in _teaching/. Add mentoring details only with permission to identify the students involved. -->
+{% include base_path %}
+
+{% if site.teaching.size == 0 %}
+<p>Teaching and mentoring details will be added soon.</p>
+{% else %}
+  {% for post in site.teaching reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

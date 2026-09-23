@@ -1,0 +1,21 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+<p>You can also find my work on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+{% endif %}
+
+<!-- Add verified publication records as Markdown files in _publications/. See CONTENT_GUIDE.md for the required metadata. -->
+{% include base_path %}
+
+{% if site.publications.size == 0 %}
+<p>Publication list coming soon.</p>
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
