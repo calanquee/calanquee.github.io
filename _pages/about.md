@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), and a member of the [Applied Distributed Systems Lab (ADSLab)](http://adslab.cse.cuhk.edu.hk/), supervised by Professor [Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/www/index.html). Before that, I received my bachelor degree in Information Security from Beijing University of Posts and Telecommunications (BUPT) in 2020 and master degree in Electronic and Information Engineering from Institute of Computing Technology, Chinese Academy of Sciences (ICT-CAS) in 2023, supervised by Professor [Qun Huang](https://huangqundl.github.io/).
+I am a Ph.D. candidate in [Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), and a member of the [Applied Distributed Systems Lab (ADSLab)](http://adslab.cse.cuhk.edu.hk/), supervised by Professor [Patrick P. C. Lee](https://www.cse.cuhk.edu.hk/~pclee/www/index.html). Before that, I received my bachelor degree in Information Security from Beijing University of Posts and Telecommunications (BUPT) in 2020 and master degree in Electronic and Information Engineering from Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) in 2023, supervised by Professor [Qun Huang](https://huangqundl.github.io/).
 {: .biography}
 
 My research interests are **machine learning systems** and **network systems**.
@@ -29,7 +29,7 @@ My research interests are **machine learning systems** and **network systems**.
 
 ## Teaching
 
-Teaching Assistant at The Chinese University of Hong Kong (CUHK):
+Teaching Assistant at CUHK:
 
 - **CSCI4180: Introduction to Cloud Computing and Storage**  
   Instructor: Professor Patrick P. C. Lee  
