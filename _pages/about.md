@@ -24,7 +24,7 @@ My research interests are **machine learning systems** and **network systems**.
 
 ## Service
 
-- AEC Member in SIGOPS ATC’26
+- ACM SIGOPS ATC’26 AEC Member
 
 ## Teaching
 
