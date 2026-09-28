@@ -22,9 +22,8 @@ My research interests are **machine learning systems** and **network systems**.
 <span class="publication-title"><strong><span class="publication-venue">[ICDE 24]</span> PP-Stream: Toward High-Performance Privacy-Preserving Neural Network Inference via Distributed Stream Processing.</strong> <a href="{{ '/files/icde24ppstream.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">[PDF]</a></span>  
 <span class="publication-authors"><u>Qingxiu Liu</u>, Qun Huang, Xiang Chen, Sa Wang, Wenhao Wang, Shujie Han, and Patrick P. C. Lee.</span>
 
-## Services
+## Service
 
-- IEEE Transactions on Networking (TON) reviewer
 - AEC Member in SIGOPS ATC’26
 
 ## Teaching
